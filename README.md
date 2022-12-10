@@ -1,1 +1,5 @@
-# SIGNA_Auto_Commitment
+- For SIGNA/Signum miners/investors.
+- For Windows and Linux users, this script allows you to add commitment automatically, just create a scheduled task on your pc/server and run this script daily and job done.
+- For info on how to install PowerShell on Linux : https://learn.microsoft.com/it-it/powershell/scripting/install/installing-powershell-on-linux?view=powershell-7.3 .
+- It's NOT necessary to run this script with admin privileges.
+- Any suggestion is always appreciated.
